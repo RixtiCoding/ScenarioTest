@@ -1,5 +1,8 @@
 
 # Data Processing Pipeline Scenario
+
+# [FIGMA DESIGN](https://www.figma.com/file/Kdt2hxq49vvpWQ6ko7jEZh/Pipeline-Scenario)
+
 ## Building and running the project
 ### REQUIRED:
 #### GO 1.18+
