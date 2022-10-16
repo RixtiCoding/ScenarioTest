@@ -1,0 +1,43 @@
+[
+  {
+    "Body": "# TEXT MESSAGE\n\n This is a test message!",
+    "UID": 1
+  },
+  {
+    "Body": "# TEXT MESSAGE\n\n I've just won the auction!",
+    "UID": 2
+  },
+  {
+    "Body": "# TEXT MESSAGE\n\n Death is a strange thing.",
+    "UID": 3
+  },
+  {
+    "Body": "# TEXT MESSAGE\n\n We need to rescue the dog.",
+    "UID": 4
+  },
+  {
+    "Body": "# TEXT MESSAGE\n\n I love cheesecake.",
+    "UID": 5
+  },
+  {
+    "Body": "# TEXT MESSAGE\n\n Death is a strange thing.",
+    "UID": 6
+  },
+  {
+    "Body": "# TEXT MESSAGE\n\n My jaw is broken",
+    "UID": 7
+  },
+  {
+    "Body": "# TEXT MESSAGE\n\n I love football.",
+    "UID": 8
+  },
+  {
+    "Body": "# IMAGE MESSAGE\n\n [The Eiffel Tower](https://image/imiplacbarbatii.jpg)",
+    "UID": 9
+  },
+  {
+    "Body": "# IMAGE MESSAGE\n\n [Maimutele](https://image.shutterstock.com/shutterstock/photos/1917736844/display_1500/stock-photo-details-from-eiffel-tower-in-paris-1917736844.jpg), [Caii](https://learntoplay.rixti.com/image/teste.jpg)",
+
+    "UID": 10
+  }
+]
