@@ -26,7 +26,13 @@ EXAMPLE -> after you built the main exec, while you're still in ScenarioTest-mas
 
 
 
-### - Design Decisions
+# - Design Decisions
  **CLI** - why have i used a CLI for this scenario?
 Using a cli made the project much more focused around the core filter logic. This comes with downsides also, such as no continuous message filtering. As this is a test scenario, with an emphasis on the logic part, i found this approach to be perfect, minimizing the code that is written and making it a little bit easier to understand, but a little bit more messy.
+**Testin approach** 
+- i've written tests for most of the important functions
+- the api does not have testing as it is too simple to be worth doing it.
+- I did not wanted to not use any popular testing tehniques or third party libraries for simplicity sake.
+**The approval service**
+- I've tried to do an extremely short representation on how it would look like on the cli. it required no human interaction as it approves/rejects on a random criteria.
  
