@@ -36,5 +36,7 @@ Using a cli made the project much more focused around the core filter logic. Thi
 - the api does not have testing as it is too simple to be worth doing it.
 - I did not wanted to not use any popular testing tehniques or third party libraries for simplicity sake.
 **The approval service**
-- I've tried to do an extremely short representation on how it would look like on the cli. it requires no human interaction as it approves/rejects on a random criteria.
+- I've tried to do an extremely short representation on how it would look like on the cli. it requires no human interaction as it approves/rejects on a random criteria. READ -> the random criteria function relies on the seed, so if you build the project and run the exec the outcome of the approval service will always be the same, hence for looking into the functionality of the code i recommend running it first.
+**database choice**
+- I chose redis because of the low memory it requires and simplicity. in a real life scenario, my implementation is questionable. in a test, i find this acceptable.
  
