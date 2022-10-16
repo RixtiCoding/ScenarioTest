@@ -43,3 +43,6 @@ Using a cli made the project much more focused around the core filter logic. Thi
 ## **database choice**
 - I chose redis because of the low memory it requires and simplicity. in a real life scenario, my implementation is questionable. in a test, i find this acceptable.
  
+ ### Last words
+ 
+ The project is completely not ready for any type of production line, it has the purpose of showcasing possible implementations when it comes to the proposed scenario. Thank you for reading!
