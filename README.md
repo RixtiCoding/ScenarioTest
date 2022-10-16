@@ -16,23 +16,13 @@
 
 #### STEP 3
 run ```docker run --name=rediboard -p 6379:6379 redis``` into your terminal to instantiate a redis database connection
+OPTIONAL: if you wish to have a gui for the redis database interaction, use [Redis GUI](https://redis.com/redis-enterprise/redis-insight/#insight-form)
 
 # VERY IMPORTANT !
 as the project uses hard-coded messages and sample data, in order for the program to see the paths of the .json files you will have to run the execs from the same directory as they are located in.
 EXAMPLE -> after you built the api exec, while you're still in ScenarioTest-master/api/cmd
 run ```./cmd```
 EXAMPLE -> after you built the main exec, while you're still in ScenarioTest-master, run ```./MessageFilter```
-
-
-
-
-
-
-
-
-
-
-
 
 
 
