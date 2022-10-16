@@ -24,6 +24,8 @@ EXAMPLE -> after you built the api exec, while you're still in ScenarioTest-mast
 run ```./cmd```
 EXAMPLE -> after you built the main exec, while you're still in ScenarioTest-master, run ```./MessageFilter```
 
+If you wish to run the project without building it, just use ```go run {file to be ran}``` or just use ```go run .``` in the directory the desired file is.
+
 
 
 # - Design Decisions
@@ -34,5 +36,5 @@ Using a cli made the project much more focused around the core filter logic. Thi
 - the api does not have testing as it is too simple to be worth doing it.
 - I did not wanted to not use any popular testing tehniques or third party libraries for simplicity sake.
 **The approval service**
-- I've tried to do an extremely short representation on how it would look like on the cli. it required no human interaction as it approves/rejects on a random criteria.
+- I've tried to do an extremely short representation on how it would look like on the cli. it requires no human interaction as it approves/rejects on a random criteria.
  
